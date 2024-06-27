@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/hassanbazzi1/my-portfolio.git/static/css/main.33fd4791.css",
+    "main.js": "/hassanbazzi1/my-portfolio.git/static/js/main.921a8b91.js",
+    "static/js/453.acca0757.chunk.js": "/hassanbazzi1/my-portfolio.git/static/js/453.acca0757.chunk.js",
+    "static/media/project-img4.png": "/hassanbazzi1/my-portfolio.git/static/media/project-img4.e038e7fee1b322608bf4.png",
+    "static/media/color-sharp2.png": "/hassanbazzi1/my-portfolio.git/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/React-Project.png": "/hassanbazzi1/my-portfolio.git/static/media/React-Project.4082272965cb1b300d84.png",
+    "static/media/ASP-Project.png": "/hassanbazzi1/my-portfolio.git/static/media/ASP-Project.c4b91ba034ee614cfa1a.png",
+    "static/media/banner-bg.png": "/hassanbazzi1/my-portfolio.git/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/HassanBazzi1.png": "/hassanbazzi1/my-portfolio.git/static/media/HassanBazzi1.a5ce5fb438e8537943eb.png",
+    "static/media/PHP-Project.png": "/hassanbazzi1/my-portfolio.git/static/media/PHP-Project.8c725779a74e084c7d9e.png",
+    "static/media/CentraNo2-Bold.ttf": "/hassanbazzi1/my-portfolio.git/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/hassanbazzi1/my-portfolio.git/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/hassanbazzi1/my-portfolio.git/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/footer-bg.png": "/hassanbazzi1/my-portfolio.git/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/contact-img.svg": "/hassanbazzi1/my-portfolio.git/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
+    "static/media/bazzi.png": "/hassanbazzi1/my-portfolio.git/static/media/bazzi.993378765f84a42183f8.png",
+    "static/media/nav-icon3.svg": "/hassanbazzi1/my-portfolio.git/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "index.html": "/hassanbazzi1/my-portfolio.git/index.html",
+    "static/media/nav-icon1.svg": "/hassanbazzi1/my-portfolio.git/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "main.33fd4791.css.map": "/hassanbazzi1/my-portfolio.git/static/css/main.33fd4791.css.map",
+    "main.921a8b91.js.map": "/hassanbazzi1/my-portfolio.git/static/js/main.921a8b91.js.map",
+    "453.acca0757.chunk.js.map": "/hassanbazzi1/my-portfolio.git/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33fd4791.css",
+    "static/js/main.921a8b91.js"
+  ]
+}
